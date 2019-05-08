@@ -5,7 +5,7 @@ UP = 3
 nA = 4  #max no. of actions
 
 s = []
-fhand = open('input0.txt')
+fhand = open('input0.txt')  #change the file name according to the input
 for line in fhand:
     line = line.rstrip()
     s.append(line)

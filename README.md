@@ -1,2 +1,2 @@
 # MDP
-Using Markov Decision Process (Value iteration Algo) to solve a grid world game
+Using Markov Decision Process (Value iteration Algorithm) to solve a grid world game
